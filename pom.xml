@@ -40,6 +40,14 @@
 			<version>${org.aspectj-version}</version>
 		</dependency>	
 		
+		<!-- JUnit -->
+		<dependency>
+ 			 <groupId>junit</groupId>
+ 			 <artifactId>junit</artifactId>
+  			<version>4.7</version>
+  			<scope>test</scope>
+		</dependency> 
+
 		<!-- Logging -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
